@@ -1,3 +1,4 @@
+<img width="300" height="300" alt="61rFp63+xsL _AC_SY300_SX300_QL70_FMwebp_" src="https://github.com/user-attachments/assets/e64d6ae8-5e49-4a8e-b60a-70210a87f93a" />
 1. git init lab_2
 2. created a repo on GitHub then: git remote add origin git@github.com:mariakaiser/Git_lab_2.git
 3.added a main.txt file with "first commit" written inside then: git add . , git commit -m"added main.txt file with first commit written inside" , git push -u origin main
